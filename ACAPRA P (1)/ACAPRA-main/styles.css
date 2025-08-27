@@ -1,5 +1,5 @@
 :root {
-  --color-primary: #f5a4a4;
+  --color-primary: #bc93f5;
   --color-secondary: #ffffff;
   --color-text: #333333;
   --radius: 12px;
@@ -10,7 +10,7 @@
   --banner-max-height: 300px;
   --footer-bg: #eee;
   --footer-text: #333333;
-  --btn-hover-dark: #DD9494;
+  --btn-hover-dark: #7012dc;
 }
 
 /* 1. Reset */
@@ -89,7 +89,7 @@ body {
   object-position: center center;
 }
 .page-image-history   { object-position: center center; }
-.page-image-donations { object-position: 20% 20%; }
+.page-image-donations { object-position: 20% 40%; }
 .page-image-stories   { object-position: 20% 40%; }
 .page-image-news      { object-position: center center; }
 .page-image-abuse     { object-position: center center; }
